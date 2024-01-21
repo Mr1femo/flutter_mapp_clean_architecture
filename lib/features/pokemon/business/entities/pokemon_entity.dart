@@ -1,5 +1,6 @@
 import 'sub_entites.dart';
 
+//what we get from the Api:
 class PokemonEntity {
   final String name;
   final int id;
